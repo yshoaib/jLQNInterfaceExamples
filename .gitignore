@@ -29,6 +29,4 @@ target/
 .gitignore
 intermediateInputFile.lqnx
 output.ps
-pom.xml
-src/
 /output.ps
